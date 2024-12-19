@@ -18,4 +18,3 @@ try:
 
 except Exception as e:
     print("Connection error: ", e)
-

@@ -8,8 +8,3 @@ try:
     c.send(bytes(clientName, "utf-8"))
 except Exception as e:
     print("Connection error", e)
-
-
-
-
-
